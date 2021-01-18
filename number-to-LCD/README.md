@@ -18,6 +18,7 @@ Note: Please do *NOT* read the second part before completing the first. Part of 
 Change your program to support variable width or height of the digits.
 For example for width = 3 and height = 2 the digit 2 will be:
 
+```
  ___
     |
     |
@@ -25,6 +26,7 @@ For example for width = 3 and height = 2 the digit 2 will be:
 |
 |
  ___
+ ```
 
 This kata based on:
 https://github.com/coreyhaines/kata-number-to-led
