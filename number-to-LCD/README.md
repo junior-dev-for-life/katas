@@ -1,4 +1,4 @@
-## Goal: write a program that displays LCD style numbers.
+Write a program that displays LCD style numbers.
 
 ### Part 1
 
